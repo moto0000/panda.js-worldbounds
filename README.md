@@ -1,2 +1,2 @@
-panda.js-worldbounds
+How to use:
 ====================
